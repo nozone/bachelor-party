@@ -1,7 +1,18 @@
 body {
   margin: 0;
-  background: #282828;
-  color: #eee;
-  font-family: 'Helvetica Neue', Arial, 'Liberation Sans', FreeSans, sans-serif;
-  font-size: 14px;
+  background: #282828 !important;
+  font-family: 'Lobster', serif !important;
+}
+
+.jumbotron {
+color: #D0FCCF !important;
+}
+
+.well {
+	background: url('../assets/scroll_sized.png');
+}
+
+.leafy-background {
+	background: url('../assets/leafy-road_sized.jpg');
+	background-repeat: round;
 }

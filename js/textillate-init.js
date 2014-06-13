@@ -1,3 +1,3 @@
 $(function () {
-    $('.tlt').textillate();
+    $('.tlt').textillate({ in : {	delay:100} });
 })
